@@ -1,1 +1,1 @@
-a description of the repository
+shell basics
