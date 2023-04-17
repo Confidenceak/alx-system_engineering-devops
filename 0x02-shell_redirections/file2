@@ -96,4 +96,85 @@ cat [31m-10[m /etc/passwd
 
 [1m[34m~                                                                        [5;1H~                                                                        [6;1H~                                                                        [7;1H~                                                                        [8;1H~                                                                        [9;1H~                                                                        [10;1H~                                                                        [11;1H~                                                                        [12;1H~                                                                        [13;1H~                                                                        [14;1H~                                                                        [15;1H~                                                                        [16;1H~                                                                        [17;1H~                                                                        [18;1H~                                                                        [19;1H~                                                                        [20;1H~                                                                        [21;1H~                                                                        [22;1H~                                                                        [23;1H~                                                                        [24;1H~                                                                        [25;1H~                                                                        [26;1H~                                                                        [27;1H~                                                                        [28;1H~                                                                        [29;1H~                                                                        [30;1H~                                                                        [31;1H~                                                                        [32;1H~                                                                        [33;1H~                                                                        [34;1H~                                                                        [35;1H~                                                                        [m[36;56H2,19[10CAll[2;19H[?25h[?25l[36;46H~@k[2;19H[36;46H   [2;18H[36;59H8[2;18H[?25h[?25l[36;46H~@k[2;18H[36;46H   [2;17H[36;59H7[2;17H[?25h[?25l[36;46H~@k[2;17H[36;46H   [2;16H[36;59H6[2;16H[?25h[?25l[36;46H~@k[2;16H[36;46H   [2;15H[36;59H5[2;15H[?25h[?25l[36;46H~@k[2;15H[36;46H   [2;14H[36;59H4[2;14H[?25h[?25l[36;46Hi[2;14H[36;46H [2;14H[36;1H[1m-- INSERT --[m[36;13H[K[36;56H2,14[10CAll[2;14H[?25h[?25l[36;59H5[2;15H[?25h[?25l[36;59H7[2;17H[?25h[?25l[36;59H8[2;18H[?25h[?25l[36;59H9[2;19H[?25h[?25l[36;58H20[2;20H[?25h[?25l[2;19H[K[36;58H19[2;19H[?25h[?25l[2;18H[K[36;59H8[2;18H[?25h[?25l[2;17H[K[36;59H7[2;17H[?25h[?25l[2;16H[K[36;59H6[2;16H[?25h[?25l[2;15H[K[36;59H5[2;15H[?25h[?25l[2;14H[K[36;59H4[2;14H[?25h[?25l[2;13H[K[36;59H3[2;13H[?25h[?25l[2;12H[K[36;59H2[2;12H[?25h[?25l[2;11H[K[36;59H1[2;11H[?25h[?25l[2;10H[K[36;59H0[2;10H[?25h[?25l[2;9H[K[36;58H9 [2;9H[?25h[?25l[36;58H8[2;8H[?25h[?25l[2;7H[K[36;58H7[2;7H[?25h[?25l-[2;6H[K[36;58H6[2;6H[?25h[?25l[2;5H[K[36;58H5[2;5H[?25h[?25l[2;2H[K[36;58H2[2;2H[?25h[?25l[2;1H[K[36;58H1[2;1H[?25h[?25l[1;35r[35;1H
 [1;36r[1;1H[34m#!/bin/bash[m[35;1H[1m[34m~                                                                        [m[36;56H[K[36;56H1,12[10CAll[1;12H[?25h[?25l[1;11H[K[36;59H1[1;11H[?25h[?25l[1;10H[K[36;59H0[1;10H[?25h[?25l[1;9H[K[36;58H9 [1;9H[?25h[?25l[1;8H[K[36;58H8[1;8H[?25h[?25l[1;7H[K[36;58H7[1;7H[?25h[?25l[1;6H[K[36;58H6[1;6H[?25h[?25l[34mn[m[36;58H7[1;7H[?25h[?25l[34m/[m[36;58H8[1;8H[?25h[?25l[34mb[m[36;58H9[1;9H[?25h[?25l[34ma[m[36;58H10[1;10H[?25h[?25l[34ms[m[36;59H1[1;11H[?25h[?25l[34mh[m[36;59H2[1;12H[?25h[?25l[2;35r[2;1H[L[1;36r[36;56H[K[36;56H2,1[11CAll[2;1H[?25h[?25lt[36;58H2[2;2H[?25h[?25la[36;58H3[2;3H[?25h[?25li[36;58H4[2;4H[?25h[?25l[33mtail[m[36;58H5[2;5H[?25h[?25l[36;58H6[2;6H[?25h[?25l-[36;58H7[2;7H[?25h[?25l[31m-1[m[36;58H8[2;8H[?25h[?25l[31m0[m[36;58H9[2;9H[?25h[?25l[36;58H10[2;10H[?25h[?25l/etc/passwd[36;58H21[2;21H[?25h[36;1H[K[2;20H[?25l[36;46H^[[2;20H[36;46H  [2;21H[36;56H2,20[10CAll[2;20H[?25h[?25l[36;46H^[[2;20H[36;46H  [2;20H[?25h[?25l[36;46H^[[2;20H[36;46H  [2;20H[?25h[?25l[36;46H^[[2;20H[36;46H  [2;20H[?25h[?25l[36;46H^[[2;20H[36;46H  [2;20H[?25h[?25l[36;46H^[[2;20H[36;46H  [2;20H[?25h[?25l[36;46H^[[2;20H[36;46H  [2;20H[?25h[?25l[36;46H^[[2;20H[36;46H  [2;20H[36;46H^[[2;20H[36;46H  [2;20H[?25h[?25l[36;46H^[[2;20H[36;46H  [2;20H[36;46H^[[2;20H[36;46H  [2;20H[?25h[?25l[36;46H^[[2;20H[36;46H  [2;20H[36;46H^[[2;20H[36;46H  [2;20H[?25h[?25l[36;46H^[[2;20H[36;46H  [2;20H[36;46H^[[2;20H[36;46H  [2;20H[?25h[?25l[36;46H:[2;20H[36;46H[K[36;1H:[?2004h[?25hwq[?25l[?2004l"4-lastlines" 3L, 34C written[23;2t[23;1t
+[?2004l[?1l>[?25h[>4;m[?1049l[23;0;0t[main 86f5851] 4-lastlines
+ 3 files changed, 17 insertions(+), 1 deletion(-)
+CAT(1)                       User Commands                       CAT(1)
+
+NAME
+       cat - concatenate files and print on the standard output
+
+SYNOPSIS
+       cat [OPTION]... [FILE]...
+
+DESCRIPTION
+       Concatenate FILE(s) to standard output.
+
+       With no FILE, or when FILE is -, read standard input.
+
+       -A, --show-all
+              equivalent to -vET
+
+       -b, --number-nonblank
+              number nonempty output lines, overrides -n
+
+       -e     equivalent to -vE
+
+       -E, --show-ends
+              display $ at end of each line
+
+       -n, --number
+              number all output lines
+
+       -s, --squeeze-blank
+              suppress repeated empty output lines
+
+       -t     equivalent to -vT
+
+       -T, --show-tabs
+              display TAB characters as ^I
+
+       -u     (ignored)
+
+       -v, --show-nonprinting
+              use ^ and M- notation, except for LFD and TAB
+
+       --help display this help and exit
+
+       --version
+              output version information and exit
+
+EXAMPLES
+       cat f - g
+              Output  f's  contents, then standard input, then g's con‐
+              tents.
+
+       cat    Copy standard input to standard output.
+
+AUTHOR
+       Written by Torbjorn Granlund and Richard M. Stallman.
+
+REPORTING BUGS
+       GNU coreutils online  help:  <https://www.gnu.org/software/core‐
+       utils/>
+       Report   cat   translation   bugs   to  <https://translationpro‐
+       ject.org/team/>
+
+COPYRIGHT
+       Copyright © 2018 Free Software Foundation, Inc.  License GPLv3+:
+       GNU GPL version 3 or later <https://gnu.org/licenses/gpl.html>.
+       This  is  free software: you are free to change and redistribute
+       it.  There is NO WARRANTY, to the extent permitted by law.
+
+SEE ALSO
+       tac(1)
+
+       Full   documentation   at:   <https://www.gnu.org/software/core‐
+       utils/cat>
+       or available locally via: info '(coreutils) cat invocation'
+
+GNU coreutils 8.30           September 2019                      CAT(1)
+[?1049h[22;0;0t[>4;2m[?1h=[?2004h[1;36r[?12h[?12l[22;2t[22;1t[27m[23m[29m[m[H[2J[?25l[36;1H"4-lastlines" 3L, 34C[1;1H[34m#!/bin/bash[m
+[33mtail[m [31m-10[m /etc/passwd
+
+[1m[34m~                                                                        [5;1H~                                                                        [6;1H~                                                                        [7;1H~                                                                        [8;1H~                                                                        [9;1H~                                                                        [10;1H~                                                                        [11;1H~                                                                        [12;1H~                                                                        [13;1H~                                                                        [14;1H~                                                                        [15;1H~                                                                        [16;1H~                                                                        [17;1H~                                                                        [18;1H~                                                                        [19;1H~                                                                        [20;1H~                                                                        [21;1H~                                                                        [22;1H~                                                                        [23;1H~                                                                        [24;1H~                                                                        [25;1H~                                                                        [26;1H~                                                                        [27;1H~                                                                        [28;1H~                                                                        [29;1H~                                                                        [30;1H~                                                                        [31;1H~                                                                        [32;1H~                                                                        [33;1H~                                                                        [34;1H~                                                                        [35;1H~                                                                        [m[36;56H2,20[10CAll[2;20H[?25h[?25l[36;46H~@k[2;20H[36;46H   [2;19H[36;58H19[2;19H[?25h[?25l[36;46H~@k[2;19H[36;46H   [2;18H[36;59H8[2;18H[?25h[?25l[36;46H~@k[2;18H[36;46H   [2;17H[36;59H7[2;17H[?25h[?25l[36;46H~@k[2;17H[36;46H   [2;16H[36;59H6[2;16H[?25h[?25l[36;46H~@k[2;16H[36;46H   [2;15H[36;59H5[2;15H[?25h[?25l[36;46H~@k[2;15H[36;46H   [2;14H[36;59H4[2;14H[?25h[?25l[36;46H~@k[2;14H[36;46H   [2;13H[36;59H3[2;13H[?25h[?25l[36;46H~@k[2;13H[36;46H   [2;12H[36;59H2[2;12H[?25h[?25l[36;46Hi[2;12H[36;46H [2;12H[36;1H[1m-- INSERT --[m[36;13H[K[36;56H2,12[10CAll[2;12H[?25h[?25l[36;59H1[2;11H[?25h[?25l[36;59H0[2;10H[?25h[?25l[36;58H9 [2;9H[?25h[?25l[36;58H8[2;8H[?25h[?25l[36;58H7[2;7H[?25h[?25l[36;58H6[2;6H[?25h[?25l[35m--10[m /etc/passwd[36;58H7[2;7H[?25h[?25l[35mn-[m10 /etc/passwd[36;58H8[2;8H[?25h[?25l [31m-10[m /etc/passwd[36;58H9[2;9H[?25h[36;1H[K[2;8H[?25l[36;46H^[[2;8H[36;46H  [2;9H[36;56H2,8[11CAll[2;8H[?25h[?25l[36;46H:[2;8H[36;46H[K[36;1H:[?2004h[?25hwq[?25l[?2004l"4-lastlines" 3L, 37C written[23;2t[23;1t
 [?2004l[?1l>[?25h[>4;m[?1049l[23;0;0t
