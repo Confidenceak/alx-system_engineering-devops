@@ -1,2 +1,2 @@
 #!/bin/bash
-alias Hello World="pwd"
+alias hello user="pwd"
