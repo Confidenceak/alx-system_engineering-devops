@@ -1,2 +1,2 @@
 #!/bin/bash
-cat -b . -not "." ./ | wc -l
+echo . | grep -o ":/" | wc -l
