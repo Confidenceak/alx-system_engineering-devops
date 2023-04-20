@@ -1,2 +1,2 @@
 #!/bin/bash
-echo . | grep -o ":/" | wc -l
+find . -type d -no -name "." |wc -l
