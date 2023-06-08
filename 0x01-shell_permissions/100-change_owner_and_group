@@ -1,2 +1,2 @@
 #!bin/bash
-chown vincent chgrp staff
+chmod o vincent g staff
