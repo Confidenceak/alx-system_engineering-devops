@@ -1,2 +1,2 @@
-#!bin/bash
-chmod o vincent g staff
+#!/bin/bash
+sudo chmod -R vincent:staff ./*
